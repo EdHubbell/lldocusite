@@ -13,12 +13,14 @@ const config: Config = {
   url: 'https://loganlawns.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/lldocusite/',
+  trailingSlash: false,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'LoganLawns', // Usually your GitHub org/user name.
+  organizationName: 'EdHubbell', // Usually your GitHub org/user name.
   projectName: 'lldocusite', // Usually your repo name.
+  deploymentBranch: 'deployment',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
