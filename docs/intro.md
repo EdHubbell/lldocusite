@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Who is Logan Willis? 
 
-He's the teenage lawn mowing sensation of Hampstead, NC. 
+He's the teenage lawn mowing sensation of Hampstead, NC. He's great. My favorite nephew.
 
 Look - You live in or around Hampstead. You're busy You need a kid to come mow your lawn. Here's what you do:
 
