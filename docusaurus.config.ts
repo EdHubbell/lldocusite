@@ -105,8 +105,8 @@ const config: Config = {
               href: 'mailto:LoganLawns22@gmail.com',
             },
             {
-              label: '(555) 555-5555',
-              to: 'tel:5555555555',
+              label: '(405) 312-2087',
+              to: 'tel:4053122087',
             },
           ],
         },
