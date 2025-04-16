@@ -6,14 +6,14 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Logan Lawns',
-  tagline: 'Lawn mowing in Hampstead NC',
+  tagline: 'Lawn mowing in Hampstead, NC',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
   url: 'https://loganlawns.com',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/lldocusite/',
+  baseUrl: '/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
