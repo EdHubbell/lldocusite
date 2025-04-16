@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Logan Lawns Blog</title>
-        <link>https://loganlawns.com/lldocusite/blog</link>
+        <link>https://loganlawns.com/blog</link>
         <description>Logan Lawns Blog</description>
         <lastBuildDate>Mon, 14 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://loganlawns.com/lldocusite/blog/welcome</link>
-            <guid>https://loganlawns.com/lldocusite/blog/welcome</guid>
+            <link>https://loganlawns.com/blog/welcome</link>
+            <guid>https://loganlawns.com/blog/welcome</guid>
             <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[Yo.]]></description>
             <content:encoded><![CDATA[<p>Yo.</p>
