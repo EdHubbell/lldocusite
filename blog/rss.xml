@@ -4,7 +4,7 @@
         <title>Logan Lawns Blog</title>
         <link>https://loganlawns.com/blog</link>
         <description>Logan Lawns Blog</description>
-        <lastBuildDate>Mon, 14 Apr 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Apr 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,13 +12,12 @@
             <title><![CDATA[Welcome]]></title>
             <link>https://loganlawns.com/blog/welcome</link>
             <guid>https://loganlawns.com/blog/welcome</guid>
-            <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[Yo.]]></description>
-            <content:encoded><![CDATA[<p>Yo.</p>
-<p>I need lawns to mow.</p>
-<p>So I can make some dough.</p>
-<p>Don't call my mom a nevermind we should probably edit this part.</p>
-<p><strong>And if you don't want a blog</strong>: just delete this directory, and use <code>blog: false</code> in your Docusaurus config.</p>]]></content:encoded>
+            <pubDate>Mon, 28 Apr 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[Hi! Logan here with LoganLawn's!]]></description>
+            <content:encoded><![CDATA[<p>Hi! Logan here with LoganLawn's!
+Don't waste your summer mowing, edging, and weed wacking- leave that to me!
+Here at Loganslawn you get high quality lawn care, without the high price!
+It's everything you need to get your summer started right!</p>]]></content:encoded>
         </item>
     </channel>
 </rss>
