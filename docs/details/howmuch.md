@@ -4,12 +4,11 @@ sidebar_position: 3
 
 # Rates
 
-You need to pay Logan with money. No credit cards. Probably no checks. 
+cash, check, and venmo accepted at @loganlawns22  
 
 
 $30 - Small lawn
 
 $50 - Big lawn
 
-$3200 - Small golf course
-
+Always includes edging and weed wacking! 
